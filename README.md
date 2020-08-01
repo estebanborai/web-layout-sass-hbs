@@ -8,6 +8,10 @@
   <span>Webpack template with Handlebars and Sass ready for layout development</span>
 </div>
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/estebanborai/web-layout-sass-hbs/master/docs/Flowchart.png" />
+</div>
+
 ## Getting Started
 
 ```bash
